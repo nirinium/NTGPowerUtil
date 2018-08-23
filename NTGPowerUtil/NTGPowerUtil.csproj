@@ -92,7 +92,6 @@
     <None Include="Resources\weird1440.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="data.txt" />
     <Content Include="items.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
